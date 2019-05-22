@@ -2,3 +2,4 @@
 applications:
   - name: multifoundationmetrics
     instances: 1
+    # A comment
