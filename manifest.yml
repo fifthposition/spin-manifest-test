@@ -1,4 +1,4 @@
 ---
 applications:
-  - name: multifoundationmetrics-2
+  - name: multifoundationmetrics-3
     instances: 1
